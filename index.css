@@ -1,0 +1,23 @@
+
+#heading{
+	text-align: center;
+}
+#main{
+		margin: 0 auto;
+	background-color: grey;
+	text-align: center;
+	border: 2px solid;
+    border-radius: 25px;
+}
+ .middle{
+ 	margin: 0 auto;
+ 	text-align: center;
+
+ }
+
+.resizedTextbox {width: 120px; height: 100px; font-size:60px;}
+
+ #reset{
+ 	top: 30px;
+ 	right:30px;
+ }
